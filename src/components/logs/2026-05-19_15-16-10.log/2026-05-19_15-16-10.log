@@ -1,0 +1,10 @@
+[2026-05-19 15:16:12,927] 18 root - INFO - Data Ingestion method starts
+[2026-05-19 15:16:12,943] 23 root - INFO - Dataset read as pandas dataframe
+[2026-05-19 15:16:12,953] 29 root - INFO - Train test split initiated
+[2026-05-19 15:16:12,966] 35 root - INFO - Data Ingestion completed
+[2026-05-19 15:16:12,972] 58 root - INFO - read train and test data completed
+[2026-05-19 15:16:12,972] 59 root - INFO - obtaining preprocessor object
+[2026-05-19 15:16:12,972] 39 root - INFO - numerical column scaled
+[2026-05-19 15:16:12,972] 40 root - INFO - categorical column encoded
+[2026-05-19 15:16:12,972] 48 root - INFO - categorical_feat:['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course'] numerical_feat:['math score', 'reading score', 'writing score']
+[2026-05-19 15:16:12,975] 66 root - INFO - Applying preprocessing object on training and testing dataframe  
