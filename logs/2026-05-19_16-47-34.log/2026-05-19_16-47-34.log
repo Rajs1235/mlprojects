@@ -1,0 +1,14 @@
+[2026-05-19 16:47:40,840] 20 root - INFO - Data Ingestion method starts
+[2026-05-19 16:47:40,861] 25 root - INFO - Dataset read as pandas dataframe
+[2026-05-19 16:47:40,879] 31 root - INFO - Train test split initiated
+[2026-05-19 16:47:40,899] 37 root - INFO - Data Ingestion completed
+[2026-05-19 16:47:40,913] 57 root - INFO - read train and test data completed
+[2026-05-19 16:47:40,913] 58 root - INFO - obtaining preprocessor object
+[2026-05-19 16:47:40,913] 38 root - INFO - numerical column scaled
+[2026-05-19 16:47:40,913] 39 root - INFO - categorical column encoded
+[2026-05-19 16:47:40,913] 47 root - INFO - categorical_feat:['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course'] numerical_feat:['reading score', 'writing score']
+[2026-05-19 16:47:40,921] 66 root - INFO - Applying preprocessing object on training and testing dataframe  
+[2026-05-19 16:47:40,961] 71 root - INFO - Saved preprocessing object.
+[2026-05-19 16:47:40,974] 30 root - INFO - Splitting training and test input data
+[2026-05-19 16:47:40,976] 46 root - INFO - Model training initiated
+[2026-05-19 16:47:44,632] 51 root - INFO - Best model found on both training and testing dataset: Decision Tree with r2 score: (0.9996534669718089, 0.7297795991097171)

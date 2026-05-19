@@ -1,0 +1,7 @@
+[2026-05-19 15:17:56,913] 57 root - INFO - read train and test data completed
+[2026-05-19 15:17:56,913] 58 root - INFO - obtaining preprocessor object
+[2026-05-19 15:17:56,913] 38 root - INFO - numerical column scaled
+[2026-05-19 15:17:56,913] 39 root - INFO - categorical column encoded
+[2026-05-19 15:17:56,914] 47 root - INFO - categorical_feat:['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course'] numerical_feat:['reading score', 'writing score']
+[2026-05-19 15:17:56,915] 66 root - INFO - Applying preprocessing object on training and testing dataframe  
+[2026-05-19 15:17:56,932] 71 root - INFO - Saved preprocessing object.
