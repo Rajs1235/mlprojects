@@ -1,0 +1,6 @@
+[2026-05-20 15:04:12,831] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-05-20 15:04:12,838] 97 werkzeug - INFO -  * Debugger PIN: 102-113-636
+[2026-05-20 15:04:15,097] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 15:04:15] "GET /predict HTTP/1.1" 200 -
+[2026-05-20 15:04:33,176] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 15:04:33] "POST /predict HTTP/1.1" 200 -
+[2026-05-20 15:05:40,901] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 15:05:40] "POST /predict HTTP/1.1" 200 -
+[2026-05-20 15:06:04,434] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\mlproject\\app.py', reloading

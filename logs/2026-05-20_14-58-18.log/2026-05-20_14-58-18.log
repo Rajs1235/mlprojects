@@ -1,0 +1,8 @@
+[2026-05-20 14:58:18,365] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-05-20 14:58:18,373] 97 werkzeug - INFO -  * Debugger PIN: 102-113-636
+[2026-05-20 14:58:48,975] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:58:48] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-05-20 14:58:49,074] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:58:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-05-20 14:58:49,084] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:58:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-05-20 14:58:49,133] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:58:49] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=NwmEAIbnlhiCXN4tA9Pg HTTP/1.1" 200 -
+[2026-05-20 14:58:49,157] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:58:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-05-20 14:59:16,770] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\mlproject\\app.py', reloading

@@ -1,0 +1,13 @@
+[2026-05-20 14:49:39,397] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-05-20 14:49:39,414] 97 werkzeug - INFO -  * Debugger PIN: 102-113-636
+[2026-05-20 14:49:47,009] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:49:47] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-05-20 14:49:47,136] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:49:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-05-20 14:49:47,137] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:49:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-05-20 14:49:47,202] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:49:47] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=I0zeNpG9lHtuhjQC0omv HTTP/1.1" 200 -
+[2026-05-20 14:49:47,268] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:49:47] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-05-20 14:50:04,792] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:50:04] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[2026-05-20 14:50:04,861] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:50:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2026-05-20 14:50:04,865] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:50:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2026-05-20 14:50:04,875] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:50:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png&s=I0zeNpG9lHtuhjQC0omv HTTP/1.1[0m" 304 -
+[2026-05-20 14:50:04,905] 97 werkzeug - INFO - 127.0.0.1 - - [20/May/2026 14:50:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2026-05-20 14:50:39,105] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Lenovo\\Desktop\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading

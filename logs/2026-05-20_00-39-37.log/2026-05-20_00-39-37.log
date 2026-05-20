@@ -1,0 +1,14 @@
+[2026-05-20 00:39:38,167] 164 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-05-20 00:39:52,682] 20 root - INFO - Data Ingestion method starts
+[2026-05-20 00:39:52,706] 25 root - INFO - Dataset read as pandas dataframe
+[2026-05-20 00:39:52,713] 31 root - INFO - Train test split initiated
+[2026-05-20 00:39:52,727] 37 root - INFO - Data Ingestion completed
+[2026-05-20 00:39:52,733] 57 root - INFO - read train and test data completed
+[2026-05-20 00:39:52,733] 58 root - INFO - obtaining preprocessor object
+[2026-05-20 00:39:52,733] 38 root - INFO - numerical column scaled
+[2026-05-20 00:39:52,733] 39 root - INFO - categorical column encoded
+[2026-05-20 00:39:52,733] 47 root - INFO - categorical_feat:['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course'] numerical_feat:['reading score', 'writing score']
+[2026-05-20 00:39:52,739] 66 root - INFO - Applying preprocessing object on training and testing dataframe  
+[2026-05-20 00:39:52,763] 71 root - INFO - Saved preprocessing object.
+[2026-05-20 00:39:52,769] 30 root - INFO - Splitting training and test input data
+[2026-05-20 00:39:52,770] 111 root - INFO - Model training initiated

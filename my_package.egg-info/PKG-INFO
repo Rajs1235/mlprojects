@@ -7,6 +7,7 @@ Requires-Dist: scikit-learn
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
 Requires-Dist: catboost
+Requires-Dist: flask
 Requires-Dist: preprocessing
 Requires-Dist: xgboost
 Requires-Dist: dill
